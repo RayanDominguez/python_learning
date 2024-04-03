@@ -1,0 +1,10 @@
+def hello():
+  print("hello")
+return
+
+def hello_noreturn():
+  print("None")
+return
+
+hello()
+hello_noreturn()
